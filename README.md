@@ -10,16 +10,16 @@
    2. CRUD Operations: Perform Create, Read, Update, and Delete operations on the data.
    3. CTAS (Create Table As Select): Utilize CTAS to create new tables based on query results.
    4. Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
-   CRUD Operations:
+   ## CRUD Operations:
    Create: Inserted sample records into the books table.
    Read: Retrieved and displayed data from various tables.
    Update: Updated records in the employees table.
    Delete: Removed records from the members table as needed
-   Reports:
+   ## Reports:
    Database Schema: Detailed table structures and relationships.
    Data Analysis: Insights into book categories, employee salaries, member registration trends, and issued books.
    Summary Reports: Aggregated data on high-demand books and employee performance.
-   Conclusion:
+   ## Conclusion:
    This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation 
    for data management and analysis.
   
